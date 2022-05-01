@@ -1,5 +1,5 @@
 # Contact-Management
-A GUI too written in C to manage contacts
+A GUI tool written in C to manage contacts
 
 This application is created as a part of our Freshman Engineering micro project
 
