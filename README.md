@@ -4,9 +4,9 @@ A GUI tool written in C to manage contacts
 This application is created as a part of our Freshman Engineering micro project
 
 ## ToDo:
-- Add an import contact button and function
-- Add a feature to show all the contacts in a GUI window
-- Try adding an image renderer to further create an option to add images to the contacts
+- [ ] Add an import contact button and function
+- [ ] Add a feature to show all the contacts in a GUI window
+- [ ] Try adding an image renderer to further create an option to add images to the contacts
  
 
 ## Screenshots:
